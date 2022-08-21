@@ -83,7 +83,7 @@
     letter-spacing: 0.01em;
     color: var(--primery-text-color);
 
-    .&:not(:last-child) {
+    &:not(:last-child) {
             margin-bottom: 10px;
         }
     }
